@@ -1,0 +1,10 @@
+{
+    "name": "logs/logger",
+    "autoload": {
+        "psr-4": {
+            "Logs\\Logger\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
