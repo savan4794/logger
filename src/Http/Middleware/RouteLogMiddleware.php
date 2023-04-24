@@ -19,7 +19,6 @@ class RouteLogMiddleware{
         } else {
             $data =$url['host'];
         }
-
         Log::info('Route Name - ' . $data);
 
         return $response;
