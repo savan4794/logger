@@ -1,6 +1,6 @@
 <?php
 
-namespace Logs\Logger\Http\Middleware;
+namespace Logger\Logger\Http\Middleware;
 
 use Illuminate\Http\Request;
 use Closure;

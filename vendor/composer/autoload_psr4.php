@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Logs\\Logger\\' => array($baseDir . '/src'),
+    'Logger\\Logger\\' => array($baseDir . '/src'),
 );

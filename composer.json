@@ -1,8 +1,8 @@
 {
-    "name": "logs/logger",
+    "name": "logger/logger",
     "autoload": {
         "psr-4": {
-            "Logs\\Logger\\": "src/"
+            "Logger\\Logger\\": "src/"
         }
     },
     "minimum-stability": "dev",
