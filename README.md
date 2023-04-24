@@ -10,4 +10,4 @@ paste the below code
 'route.log'=>\Logger\Logger\Http\Middleware\RouteLogMiddleware::class
 
 
-in your use middleware as route.log
+in your use middleware as "route.log"
